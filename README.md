@@ -20,5 +20,9 @@
 <img align="center" alt="Figma" width="30px" src="https://user-images.githubusercontent.com/42185328/140606033-235d28fe-46d3-4fdb-a9b9-dff36f3fa3a7.png" />&nbsp;&emsp;
 </p>
 
+<h2 align="center">I am also familiar with</h2>
 
-
+<p align="center">
+<img align="center" style={margin-left: "30px"} alt="C++" width="50px" src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" />&nbsp;&emsp;
+<img align="center" alt="C#" width="50px" src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" />&nbsp;&emsp;   
+</p>
