@@ -1,6 +1,6 @@
 # Hi! 👋
 
-### ☀️ I’m Dmitry
+### ☀️ I’m Amid
 
 ### 🔥 Tech Stack: Django, ReactJS, Postgresql and Docker.
 
