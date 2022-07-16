@@ -25,4 +25,19 @@
 <p align="center">
 <img align="center" style={margin-left: "30px"} alt="C++" width="50px" src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" />&nbsp;&emsp;
 <img align="center" alt="C#" width="50px" src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" />&nbsp;&emsp;   
+<img align="center" alt="JAVA" width="50px" src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" />&nbsp;&emsp;  
+<img align="center" alt="MYSQL" width="50px" src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" />&nbsp;&emsp;
+<img align="center" alt="SQL Server" width="50px" src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" />&nbsp;&emsp;
+<img align="center" alt="SQLite" width="50px" src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" />&nbsp;&emsp;
+<img align="center" alt="Git" width="50px" src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" />&nbsp;&emsp;
 </p>
+
+<h2 align="center">Programs I work with</h2>
+<img align="center" alt="Visual Studio" width="50px" src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" />&nbsp;&emsp;  
+<img align="center" alt="Visual Studio Code" width="50px" src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" />&nbsp;&emsp;  
+<img align="center" alt="PyCharm" width="50px" src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" />&nbsp;&emsp;  
+<img align="center" alt="Adobe Photoshop 2017-2022" width="50px" src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" />&nbsp;&emsp;  
+<img align="center" alt="Adobe illustrator 2021-2022" width="50px" src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" />&nbsp;&emsp;  
+<img align="center" alt="Adobe Premiere Pro 2017-2022" width="50px" src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" />&nbsp;&emsp;  
+<img align="center" alt="Cinema 4D" width="50px" src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" />&nbsp;&emsp;  
+<img align="center" alt="3DS MAX" width="50px" src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" />&nbsp;&emsp;  
