@@ -2,7 +2,7 @@
 
 ### ☀️ I’m Dmitry
 
-### 🔥 Tech Stack: ReactJS + TypeScript.
+### 🔥 Tech Stack: Django, ReactJS, Postgresql and Docker.
 
 ### 💚 Email: azorty71@gmail.com 
 
