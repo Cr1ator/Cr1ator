@@ -12,7 +12,7 @@
 <img align="center" style={margin-left: "30px"} alt="HTML" width="50px" src="https://user-images.githubusercontent.com/42185328/140605686-f37da84d-9b7b-4fdd-8b22-f52160d3817d.png" />&nbsp;&emsp;
 <img align="center" alt="CSS" width="50px" src="https://user-images.githubusercontent.com/42185328/140605712-1b028b68-aad1-41ef-a868-94df3073716e.png" />&nbsp;&emsp;   
 <img align="center" alt="JS" width="50px" src="https://user-images.githubusercontent.com/42185328/140605745-29b0ca52-240d-4fe4-b8f9-61771fd63521.png" />&nbsp;&emsp;
-<img align="center" alt="Bootstrap" width="50px" src="https://user-images.githubusercontent.com/42185328/140606363-b2372114-b573-4691-8a0a-6233f1574308.png" />&nbsp;&emsp; 
+<img align="center" alt="Bootstrap" width="50px" src="https://www.logosearcher.com/wp-content/uploads/2018/02/bootstrap-4.svg" />&nbsp;&emsp; 
 <img align="center" alt="React" width="50px" src="https://user-images.githubusercontent.com/42185328/140605732-e9ae7ef8-4506-4ca4-b72c-fefc9cc28929.png" />&nbsp;&emsp;
 <img align="center" alt="Docker" width="50px" src="https://i.imgur.com/BxJ1JQ7.png" />&nbsp;&emsp;
 <img align="center" alt="MobX" width="50px" src="https://user-images.githubusercontent.com/42185328/140605838-44d4d713-93be-43f0-9881-68c9dcff136d.png" />&nbsp;&emsp;
