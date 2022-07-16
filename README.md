@@ -26,7 +26,7 @@
 <img align="center" style={margin-left: "30px"} alt="C++" width="50px" src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" />&nbsp;&emsp;
 <img align="center" alt="C#" width="50px" src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" />&nbsp;&emsp;   
 <img align="center" alt="JAVA" width="50px" src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" />&nbsp;&emsp;  
-<img align="center" alt="MYSQL" width="50px" src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" />&nbsp;&emsp;
+<img align="center" alt="MYSQL" width="50px" src="https://ihorsl.com/wp-content/cache/isl-4k-images/2021/03/1907/mysql-logo.png" />&nbsp;&emsp;
 <img align="center" alt="SQL Server" width="50px" src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" />&nbsp;&emsp;
 <img align="center" alt="SQLite" width="50px" src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" />&nbsp;&emsp;
 <img align="center" alt="Git" width="50px" src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" />&nbsp;&emsp;
