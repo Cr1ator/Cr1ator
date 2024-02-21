@@ -32,8 +32,13 @@
 <img align="center" alt="Git" width="50px" src="https://logojinni.com/image/logos/git-icon.svg" />&nbsp;&emsp;
 </p>
 
-<p align="left" >
+<p align="center" >
     <a href="https://www.codewars.com/users/Azorty" target="_blank">
       <img src="https://github.r2v.ch/codewars?user=Azorty&top_languages=true&hide_clan=true" />
     </a>
+    <a href="https://www.codewars.com/users/Azorty" target="_blank">
+      <img src="https://leetcode-stats.vercel.app/api?username=azorty71&theme=Dark" />
+    </a>
 </p>
+
+[![azorty71's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=azorty71&theme=Dark)](https://github.com/JeremyTsaii/leetcode-stats)
