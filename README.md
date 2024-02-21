@@ -31,3 +31,5 @@
 <img align="center" style={margin-left: "0"} alt="SQLite" width="50px" src="https://www.postalcodezip.com/img/postalcodezip/images_data/Sqlite.png" />&nbsp;&emsp;
 <img align="center" alt="Git" width="50px" src="https://logojinni.com/image/logos/git-icon.svg" />&nbsp;&emsp;
 </p>
+
+:https://www.codewars.com/users/Azorty/badges/large
