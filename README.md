@@ -32,4 +32,8 @@
 <img align="center" alt="Git" width="50px" src="https://logojinni.com/image/logos/git-icon.svg" />&nbsp;&emsp;
 </p>
 
-:https://www.codewars.com/users/Azorty/badges/large
+<p align="center" >
+    <a href="https://www.codewars.com/users/Azorty">
+      <img src="https://github.r2v.ch/codewars?user=Azorty&top_languages=true" />
+    </a>
+</p>
