@@ -34,11 +34,9 @@
 
 <p align="center" >
     <a href="https://www.codewars.com/users/Azorty" target="_blank">
-      <img src="https://github.r2v.ch/codewars?user=Azorty&top_languages=true&hide_clan=true" />
+      <img src="https://github.r2v.ch/codewars?user=Azorty&top_languages=true&hide_clan=true" width="300px"/>
     </a>
-    <a href="https://www.codewars.com/users/Azorty" target="_blank">
-      <img src="https://leetcode-stats.vercel.app/api?username=azorty71&theme=Dark" />
+    <a href="https://leetcode.com/azorty71/" target="_blank">
+      <img src="https://leetcode-stats.vercel.app/api?username=azorty71&theme=Dark" width="425px"/>
     </a>
 </p>
-
-[![azorty71's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=azorty71&theme=Dark)](https://github.com/JeremyTsaii/leetcode-stats)
