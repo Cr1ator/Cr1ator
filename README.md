@@ -2,7 +2,7 @@
 
 ### ☀️ I’m Amid
 
-### 🔥 Tech Stack: Django, ReactJS, Postgresql and Docker.
+### 🔥 Main Technical Stack: Django || FastAPi, ReactJS || NextJS 13/14, Postgresql || Firebase and Docker.
 
 ### 💚 Email: azorty71@gmail.com 
 
